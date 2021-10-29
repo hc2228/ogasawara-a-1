@@ -1,0 +1,23 @@
+body {
+	background-image: url("スクリーンショット\ \(25\).png");
+	color: white;
+}
+.a {
+	text-align: center;
+}
+.b {
+	padding: 0.5em 1em;
+	background: #000000;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px hsl(0, 0%, 100%);
+	color: white;
+}
+
+.b p {
+	margin: 0; 
+    padding: 0;
+}
+.c {
+	text-align: center;
+}

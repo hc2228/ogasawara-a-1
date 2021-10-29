@@ -1,0 +1,22 @@
+html{
+	text-align: left;
+}
+body {
+	font-family: "PixelMplus10-Bold";
+	background-image: url("haikei-1.png");
+	color: white;
+	text-align: center;
+}
+.b {
+	padding: 0.5em 1em;
+	background: #000000;
+    margin: 2em 0;
+    font-weight: bold;
+    border: solid 3px hsl(0, 0%, 100%);
+	color: white;
+}
+
+.b p {
+	margin: 0; 
+    padding: 0;
+}

@@ -1,0 +1,19 @@
+@media print, screen and (min-width: 640px) {
+
+html{
+    background-image: url("スクリーンショット\ \(25\).png");
+    color: white;
+    
+    
+}
+.main{
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+body{
+    
+    font-family: "PixelMplus12-Regular.ttf";
+}
+}
